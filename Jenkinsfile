@@ -16,7 +16,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/myo-loma/test-jenkin-php.git'
+                git 'https://github.com/myomin313/test-jenkin-php.git'
             }
         }
 
