@@ -1,0 +1,5 @@
+{
+    "name": "myo/test-jenkin-php",
+    "description": "PHP Docker Jenkins Example",
+    "require": {}
+}
